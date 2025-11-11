@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"343b5f4176146e0c","x":-440,"y":-120,"width":180,"height":240,"type":"text","text":"Viewer\nActions:\n- Register\n- Connect\n- Disconnect\n- Message\n- Answer poll"},
+		{"id":"5f221fe6d383b2ab","x":-471,"y":-328,"width":250,"height":128,"type":"text","text":"ViewersController\n- create_stream_session\n- delete_stream_session"},
+		{"id":"edac036476f4376f","x":40,"y":-90,"width":250,"height":60,"type":"text","text":"StreamService"},
+		{"id":"56b2611625425114","x":40,"y":0,"width":250,"height":60,"type":"text","text":"OpenAPIService"},
+		{"id":"e488ecd1f4a4164d","x":380,"y":0,"width":250,"height":60,"type":"text","text":"OpenAPI service\nOllama"},
+		{"id":"57acc9e0f19bb8f5","x":-40,"y":-373,"width":250,"height":219,"type":"text","text":"Responsibilities:\n- StreamService API calls\n- OpenAPI service calls\n- SMTP server calls\n- "}
+	],
+	"edges":[]
+}
