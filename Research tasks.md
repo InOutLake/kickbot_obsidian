@@ -1,3 +1,0 @@
-- [ ] Kassada and how to decieve it
-- [ ] Check if connecting with simple login requests will work
-- [ ] Headless browsers navigation and emulating human like movements
